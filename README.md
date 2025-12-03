@@ -1,4 +1,4 @@
-# Visualization and Analysis of Philadelphia Murals 
+# Personal Dataset Project on Philadelphia Murals 
 Personal dataset project for Math-144-01: Foundations of Data Science
 # Motivation 
 Philadelphia is known as the "Mural Capital of the World." Growing up there, passing by a mural was an aspect of everyday life. Ultimately, I grew appreciative of how they beautified my neighborhood and walk to school. They also became a core driver of my educational experiences. In my senior year of high school, I wrote a research paper on murals in Philadelphia and painted my own in a childcare center. These experiences led me to focus my personal dataset project on murals in Philadelphia. I wanted to explore whether the data I collected and my analysis supported how impactful and prominient I believed murals to be in Philadelphia. In specific, I hoped to figure out what areas of Philadelphai were most densely populated with murals and whether they had any common or overarching themes. 
