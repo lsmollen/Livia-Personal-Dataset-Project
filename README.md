@@ -1,9 +1,9 @@
 # Personal Dataset Project on Philadelphia Murals 
 Personal dataset project for Math-144-01: Foundations of Data Science
 # Motivation 
-Philadelphia is known as the "Mural Capital of the World." Growing up there, passing by a mural was an aspect of everyday life. Ultimately, I grew appreciative of how they beautified my neighborhood and walk to school. They also became a core driver of my educational experiences. In my senior year of high school, I wrote a research paper on murals in Philadelphia and painted my own in a childcare center. These experiences led me to focus my personal dataset project on murals in Philadelphia. I wanted to explore whether the data I collected and my analysis supported how impactful and prominient I believed murals to be in Philadelphia. In specific, I hoped to figure out what areas of Philadelphai were most densely populated with murals and whether they had any common or overarching themes. 
+Philadelphia is known as the "Mural Capital of the World." Growing up there, passing by a mural was an aspect of everyday life. Ultimately, I grew appreciative of how they beautified my neighborhood and walk to school. They also became a core driver of my educational experiences. In my senior year of high school, I wrote a research paper on murals in Philadelphia and painted my own in a childcare center. These experiences led me to focus my personal dataset project on murals in Philadelphia. I wanted to explore whether the data I collected and my analysis supported how impactful and prominent I believed murals to be in Philadelphia. In specific, I hoped to figure out what areas of Philadelphia were most densely populated with murals and whether they had any common or overarching themes. 
 # Data Process 
-I sourced my data by searching "murals" in "Philadelphia" on ![Google Maps](https://www.google.com/maps/search/murals+in+philadelphia/@39.9836562,-75.2319604,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEzMC4wIKXMDSoASAFQAw%3D%3D). I manually entered the information into Excel. I choice to only use murals that included the artist's name, address, zipcode, and title. After exporting the data as a .csv file into R, I added two additional column. One wa the number of words in each title, which was used in my analysis later on. The other was the categories that I believed each mural title could be idenified as. 
+I sourced my data by searching "murals" in "Philadelphia" on ![Google Maps](https://www.google.com/maps/search/murals+in+philadelphia/@39.9836562,-75.2319604,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEzMC4wIKXMDSoASAFQAw%3D%3D). I manually entered the information into Excel. I chose to only use murals that included the artist's name, address, zipcode, and title. After exporting the data as a .csv file into R, I added two additional columns. One was the number of words in each title, which was used in my analysis later on. The other was the categories that I believed each mural title could be identified as. 
 
 
 # Visualization 
@@ -13,11 +13,11 @@ This bar chart shows the number of murals in each Philadelphia zipcode and how t
 
 ![Number of Murals by Zipcode and Artist](https://github.com/lsmollen/Livia-Personal-Dataset-Project/blob/main/000042.png) 
 
-This bar chart visualizes the number of murals that were collaboratively made or independent works. Eight of the murals in my dataset were created by one artist, while two were collectively made. Like the above bar chart, this emphasizes that there are several artists contributing to the public arts scene in Philadelphia. The two murals made by multiple artists reveal that murals foster teamwork and require hands-on hardwork. 
+This bar chart visualizes the number of murals that were collaboratively made or independent works. Eight of the murals in my dataset were created by one artist, while two were collectively made. Like the above bar chart, this emphasizes that there are several artists contributing to the public arts scene in Philadelphia. The two murals made by multiple artists reveal that murals foster teamwork and require hands-on hard work. 
 
 ![Number of Murals by Zipcode and Artist](https://github.com/lsmollen/Livia-Personal-Dataset-Project/blob/main/000069.png)  
 
-This bar chart shows the categories I placed the mural titles under. Three of the murals was not classified under any of the four categories, and were identified as "Other." Two of mural shared a title that related to nature: "Water Gives Life" and "Tree of Knowledge." While there were other categories, only one mural title belonged to each of them. 
+This bar chart shows the categories I placed the mural titles under. Three of the murals were not classified under any of the four categories, and were identified as "Other." Two of murals shared a title that related to nature: "Water Gives Life" and "Tree of Knowledge." While there were other categories, only one mural title belonged to each of them. 
 
 # Analysis 
 ![Number of Words in Mural Title](https://github.com/lsmollen/Livia-Personal-Dataset-Project/blob/main/00002a.png) 
